@@ -8,7 +8,7 @@ Somewhere on your template:
 
 ```javascript
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mantis-data-store@0.1.1/lib/index.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mantis-data-store@0.1.2/lib/index.min.js"></script>
 
 ```
 
