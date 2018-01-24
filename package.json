@@ -2,15 +2,20 @@
   "name": "mantis-data-store",
   "version": "0.0.1",
   "description": "data store for jquery",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "jquery",
     "data",
-    "story"
+    "store"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/theredfoxfire/mantis-ds.git"
+  },
   "author": "vizzlearn@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "https://github.com/theredfoxfire/mantis-ds/blob/master/README.md"
 }
