@@ -2,9 +2,21 @@
 
 A data store for jQuery
 
-## Push new state into data store
+## Initialize
+
+Somewhere on your template
+
+```javascript
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mantis-data-store@0.0.7/lib/index.min.js"></script>
+
+```
+
+Get the instance
 
 var myMantis = MantisDS();
+
+## Push new state into data store
 
 myMantis.push('myName', 'hasan');
 
