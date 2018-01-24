@@ -1,0 +1,16 @@
+{
+  "name": "mantis-data-store",
+  "version": "0.0.1",
+  "description": "data store for jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "data",
+    "story"
+  ],
+  "author": "vizzlearn@gmail.com",
+  "license": "MIT"
+}
