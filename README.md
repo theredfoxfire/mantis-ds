@@ -7,3 +7,15 @@ A data store for jQuery
 var myMantis = MantisDS();
 
 myMantis.push('myName', 'hasan');
+
+## Get your state from data store
+
+myMantis.get('myName');
+
+## Update your state from data store
+
+myMantis.update('myName', 'juki')
+
+## Remove your state from data store
+
+myMantis.remove('myName');
