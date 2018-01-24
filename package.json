@@ -1,6 +1,6 @@
 {
   "name": "mantis-data-store",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "data store for jquery",
   "main": "lib/index.js",
   "scripts": {
