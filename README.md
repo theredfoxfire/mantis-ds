@@ -10,7 +10,7 @@ Somewhere on your template:
 
 ```javascript
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mantis-data-store@0.1.2/lib/index.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mantis-data-store@0.1.3/lib/index.min.js"></script>
 
 ```
 
@@ -26,7 +26,7 @@ myMantis.push('myName', 'hasan');
 
 myMantis.get('myName');
 
-## Update your state from data store
+## Update your state on data store
 
 myMantis.update('myName', 'juki')
 
