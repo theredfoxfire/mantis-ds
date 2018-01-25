@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/npm/mantis-data-store/badge)](https://www.jsdelivr.com/package/npm/mantis-data-store)
+
 # Mantis Data Store for jQuery
 
 A data store for jQuery
